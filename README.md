@@ -1,7 +1,7 @@
 # A hands-on Lab of Vault（WindowOS實作指南）📒
 本篇示範如何使用 Terraform 在 GCP 建立基礎資源（bucket、VPC、firewall、VM），並搭配 Vault 做金鑰/密鑰管理與存取驗證。內容包含環境安裝、建置流程、GCP 認證與 SSH 登入（含疑難排解）。
 ## Hands-on Lab
-* [Git-Hub]()
+* 更詳細內容請參照[HackMD](https://hackmd.io/@mvFZJ_qaT5KyaJsJBsLz4Q/ByD2EoaHbg)
 ## 參考資源
 - [Authenticating to Vault using Google Cloud IAM service accounts](https://hashicorp1674582558.zendesk.com/hc/en-us/articles/17325098124691-Authenticating-to-Vault-using-Google-Cloud-IAM-service-accounts)
 - [Vault Plugin: Google Cloud Platform Auth Backend](https://github.com/hashicorp/vault-plugin-auth-gcp)
